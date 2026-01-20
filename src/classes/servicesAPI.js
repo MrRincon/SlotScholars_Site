@@ -1,4 +1,4 @@
-const SERVER_URL = "https://slotscholars-server.onrender.com/";
+const SERVER_URL = "https://personal-projects-server-p6x4.onrender.com/";
 
 export const api = {
   async fetchLessons() {
